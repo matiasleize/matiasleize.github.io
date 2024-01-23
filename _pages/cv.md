@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Skill 1 code in python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
