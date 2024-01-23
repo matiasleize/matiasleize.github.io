@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate teaching assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching"
+permalink: /teaching/undergrad-teaching-assistant
+venue: "Buenos Aires University, Physics Department"
+date: 2020-04-01
+location: "Buenos Aires, Argentina"
 ---
+# Tasks:
+* Prepare classes, presentations and manuscripts as course materials.
+* Adapt complex contents for bachelor degree students.
+* Work up to 30 hours a week.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Introduction to Cosmology
 ======
 
-Heading 2
+Mechanics and Thermodinamics
 ======
 
-Heading 3
+Electromagetism
 ======
