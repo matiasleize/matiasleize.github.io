@@ -14,6 +14,17 @@ Education
 * M.S. in Physical Sciences, Buenos Aires University, 2021
 * Ph.D in Physics, Buenos Aires University, 2026 (expected)
 
+Special assignatures taken
+------
+* Cosmology
+* General Relativity
+* Quantum Field Theory
+* Statistical Methods in Physical Sciences
+* Complex Networks
+* Non Linear Dinamics
+* Dinamical systems and artifitial inteligence applied to data modeling
+* Advanced Statistical Methods in Data Processing
+
 Publications
 ======
   <ul>{% for post in site.publications %}
