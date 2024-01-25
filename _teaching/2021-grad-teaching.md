@@ -15,5 +15,5 @@ location: "Buenos Aires, Argentina"
 Elecromagnetism and Optics
 ======
 *   Buenos Aires University
-*   Supervisor: Cesar Bertucci
+*   Supervisor: Professor Cesar Bertucci
 

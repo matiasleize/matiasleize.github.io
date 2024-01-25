@@ -20,7 +20,7 @@ Introduction to Cosmology
 Mechanics and Thermodinamics
 ======
 *   Buenos Aires University
-*   Supervisor: Ana Amador
+*   Supervisor: Professor Ana Amador
 
 Electromagetism
 ======
