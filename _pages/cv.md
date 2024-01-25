@@ -29,17 +29,19 @@ Talks
 Software Skills
 ======
 * Python
-  * Data science (Scipy, Pandas, Seaborn, Numpy)
-  * Statistical Analysis (Emcee, CosmoHammer )
+  * Data science libraries (Scipy, Pandas, Numpy)
+  * Statistical Analysis libraries (Emcee, CosmoHammer)
+  * Visualization libraries (Seaborn, Pyplot, Getdist)
 * C
-  * Cosmology Software (Class)
+  * Cosmological software (Class)
 * Fortran
-  *Cosmology Software (CAMB)
+  * Cosmological software (CAMB)
 
 Service and leadership
 ======
 * Currently coordinated the Cosmology Journal Club. Coordinated up to 10 different reunions.
-* Stuff member in the ICTP - Giambiagi winter school in Cosmology, celebrated in Buenos Aires, Argentina in June 2023.
+* Stuff member in the international ICTP - Giambiagi winter school in Cosmology, celebrated in Buenos Aires, Argentina in June 2023.
+* Stuff member in the international Statphys 27, celebrated in Buenos Aires, Argentina in July 2019.
 
 Teaching
 ======
@@ -50,6 +52,6 @@ Teaching
 Languages
 ======
 * Spanish (Native)
-* English (Advanced - CAE cerficate)
+* English (Fluid - CAE cerficate)
 * Italian (Intermediate)
 * French (Basic)
