@@ -20,10 +20,10 @@ Special assignatures taken
 * General Relativity
 * Quantum Field Theory
 * Statistical Methods in Physical Sciences
-* Complex Networks
-* Non Linear Dinamics
-* Dinamical systems and artifitial inteligence applied to data modeling
 * Advanced Statistical Methods in Data Processing
+* Dinamical systems and artifitial inteligence applied to data modeling
+* Non Linear Dinamics
+* Complex Networks
 
 Publications
 ======
@@ -41,7 +41,7 @@ Software Skills
 ======
 * Python
   * Data science libraries (Scipy, Pandas, Numpy)
-  * Statistical Analysis libraries (Emcee, CosmoHammer)
+  * MCMC libraries (Montepython, Cobaya, Emcee)
   * Visualization libraries (Seaborn, Pyplot, Getdist)
 * C
   * Cosmological software (Class)
@@ -63,6 +63,6 @@ Teaching
 Languages
 ======
 * Spanish (Native)
-* English (Fluid - CAE cerficate)
+* English (Fluent - CAE cerficate)
 * Italian (Intermediate)
 * French (Basic)
