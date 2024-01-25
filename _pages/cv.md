@@ -65,4 +65,4 @@ Languages
 * Spanish (Native)
 * English (Fluent)
 * Italian (Intermediate)
-* French (Beginer)
+* French (Beginner)
