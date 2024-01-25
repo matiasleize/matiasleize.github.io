@@ -63,6 +63,6 @@ Teaching
 Languages
 ======
 * Spanish (Native)
-* English (Fluent - CAE cerficate)
+* English (Fluent)
 * Italian (Intermediate)
-* French (Basic)
+* French (Beginer)
