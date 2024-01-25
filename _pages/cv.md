@@ -53,15 +53,3 @@ Languages
 * English (Advanced - CAE cerficate)
 * Italian (Intermediate)
 * French (Basic)
-  
-Work experience
-======
-* 2021 - present: Research Assistant
-  * Buenos Aires University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* 2020 - 2021: Research Assistant
-  * Buenos Aires University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
