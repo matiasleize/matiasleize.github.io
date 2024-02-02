@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD. student interested in Cosmological data and statistical analysis
+I'm a PhD. student interested in Cosmological Data and Statistical Analysis
 
 My work
 ======
