@@ -40,9 +40,9 @@ Talks and presentations
 Software Skills
 ======
 * Python
-  * Data science libraries (Numpy, Scipy, Pandas)
+  * Data science libraries ([Numpy](https://numpy.org/), [Scipy](https://scipy.org/), [Pandas](https://pandas.pydata.org/))
   * MCMC libraries ([MontePython](https://github.com/brinckmann/montepython_public), [Cobaya](https://cobaya.readthedocs.io/en/latest/), [Emcee](https://emcee.readthedocs.io/en/stable/index.html))
-  * Visualization libraries (Pyplot, [Seaborn](https://seaborn.pydata.org/index.html#), [Getdist](https://getdist.readthedocs.io/en/latest/))
+  * Visualization libraries ([Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/index.html#), [Getdist](https://getdist.readthedocs.io/en/latest/))
 * C
   * Cosmological software ([CLASS](https://lesgourg.github.io/class_public/class.html))
 * Fortran
