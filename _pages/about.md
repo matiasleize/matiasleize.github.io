@@ -21,7 +21,7 @@ During my M.S. and the first year of my PhD. I studied a family of alternative c
 
 Besides, I've also been studying and testing other kinds of modified theories. For instance, I worked on the development of a modification of the [CLASS code](https://lesgourg.github.io/class_public/class.html), in which a Vector Field Dark Matter model was implemented (this work and repo will be available soon).
 
-I'm currently studying statistical metrics, which help evaluate the tension between posterior distributions using cosmological data. Recently, we assessed the tension between SH0ES collaboration cepheid data + Pantheon Plus and Cosmic Chronometers dataset, in which we encountered a significant tension between datasets. For more information, you can find this article [here](https://arxiv.org/2312.08542).
+I'm currently studying statistical metrics, which help evaluate the tension between posterior distributions using cosmological data. Recently, we assessed the tension between SH0ES collaboration cepheid data + Pantheon Plus and Cosmic Chronometers dataset, in which we encountered a significant tension between datasets. For more information, you can find this article [here](https://arxiv.org/abs/2312.08542).
 
 ![Contour_1](/images/paper_2/contour_1.png)
 ![Contour_2](/images/paper_2/contour_2.png)
