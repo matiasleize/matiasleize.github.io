@@ -31,7 +31,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Talks and presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -40,13 +40,13 @@ Talks
 Software Skills
 ======
 * Python
-  * Data science libraries (Scipy, Pandas, Numpy)
-  * MCMC libraries (Montepython, Cobaya, Emcee)
-  * Visualization libraries (Seaborn, Pyplot, Getdist)
+  * Data science libraries (Numpy, Scipy, Pandas)
+  * MCMC libraries ([MontePython](https://github.com/brinckmann/montepython_public), [Cobaya](https://cobaya.readthedocs.io/en/latest/), [Emcee](https://emcee.readthedocs.io/en/stable/index.html))
+  * Visualization libraries (Pyplot, [Seaborn](https://seaborn.pydata.org/index.html#), [Getdist](https://getdist.readthedocs.io/en/latest/))
 * C
-  * Cosmological software (Class)
+  * Cosmological software ([CLASS](https://lesgourg.github.io/class_public/class.html))
 * Fortran
-  * Cosmological software (CAMB)
+  * Cosmological software ([CAMB](https://camb.info/))
 
 Service and leadership
 ======
