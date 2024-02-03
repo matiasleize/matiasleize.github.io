@@ -23,6 +23,6 @@ Besides, I've also been studying and testing other kinds of modified theories. F
 
 I'm currently studying statistical metrics, which help evaluate the tension between posterior distributions using cosmological data. Recently, we assessed the tension between SH0ES collaboration cepheid data + Pantheon Plus and Cosmic Chronometers dataset, in which we encountered a significant tension between datasets. For more information, you can find this article [here](https://arxiv.org/abs/2312.08542).
 
-<img src="/images/paper_2/contour_1.png" alt="Contour_1" width="200"/>
-<img src="/images/paper_2/contour_2.png" alt="Contour_2" width="200"/>
-<img src="/images/paper_2/diff_contour_1.png" alt="Diff_contour_1" width="200"/>
+<img src="/images/paper_2/contour_1.png" alt="Contour_1" width="400"/>
+<img src="/images/paper_2/contour_2.png" alt="Contour_2" width="800"/>
+<img src="/images/paper_2/diff_contour_1.png" alt="Diff_contour_1" width="1000"/>
