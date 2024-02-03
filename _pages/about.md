@@ -15,14 +15,14 @@ My work
 
 During my M.S. and the first year of my PhD. I studied a family of alternative cosmological theories to the standard cosmological model $\Lambda \rm{CDM}$: the $f(R)$ theories. In particular, I studied the Hu-Sawicki and the exponential model in the scope of Active Galactic Nuclei (AGN) fluxes, which are high-redshift data available to test cosmological models. You can find this work [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.103526).
 
-![Contours_HS](/images/paper_1/contornos_HS.pdf)
-![Different_Models](/images/paper_1/contornos_modelos.pdf)
-![Intervals_HSCC+SN+BAO](/images/paper_1/intervals_HS.pdf)
+![Contours_HS](/images/paper_1/contornos_HS.png)
+![Different_Models](/images/paper_1/contornos_modelos.png)
+![Intervals_HSCC+SN+BAO](/images/paper_1/intervals_HS.png)
 
 Besides, I've also been studying and testing other kinds of modified theories. For instance, I worked on the development of a modification of the [CLASS code](https://lesgourg.github.io/class_public/class.html), in which a Vector Field Dark Matter model was implemented (this work and repo will be available soon).
 
 I'm currently studying statistical metrics, which help evaluate the tension between posterior distributions using cosmological data. Recently, we assessed the tension between SH0ES collaboration cepheid data + Pantheon Plus and Cosmic Chronometers dataset, in which we encountered a significant tension between datasets. For more information, you can find this article [here](https://arxiv.org/2312.08542).
 
-![Contour_1](/images/paper_2/contour_1.pdf)
-![Contour_2](/images/paper_2/contour_2.pdf)
-![Diff_contour_1](/images/paper_2/diff_contour_1.pdf)
+![Contour_1](/images/paper_2/contour_1.png)
+![Contour_2](/images/paper_2/contour_2.png)
+![Diff_contour_1](/images/paper_2/diff_contour_1.png)
