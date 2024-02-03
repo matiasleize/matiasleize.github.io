@@ -17,7 +17,7 @@ During my M.S. and the first year of my PhD. I studied a family of alternative c
 
 <img src="/images/paper_1/contornos_HS.png" alt="Contours_HS" width="350"/>
 <img src="/images/paper_1/contornos_modelos.png" alt="Different_Models" width="350"/>
-<img src="/images/paper_1/intervals_HS.png" alt="Intervals_HS_CC+SN+BAO" width="500" align="middle"/>
+<img src="/images/paper_1/intervals_HS.png" alt="Intervals_HS_CC+SN+BAO" width="600"/>
 
 Besides, I've also been studying and testing other kinds of modified theories. For instance, I worked on the development of a modification of the [CLASS code](https://lesgourg.github.io/class_public/class.html), in which a Vector Field Dark Matter model was implemented (this work and repo will be available soon).
 
@@ -25,4 +25,4 @@ I'm currently studying statistical metrics, which help evaluate the tension betw
 
 <img src="/images/paper_2/contour_1.png" alt="Contour_1" width="350"/>
 <img src="/images/paper_2/contour_2.png" alt="Contour_2" width="350"/>
-<img src="/images/paper_2/diff_contour_1.png" class="displayed" alt="Diff_contour_1" width="400" align="middle"/>
+<img src="/images/paper_2/diff_contour_1.png" alt="Diff_contour_1" width="400"/>
