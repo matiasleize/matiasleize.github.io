@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a physicist interested in Cosmological Data and Statistical Analysis. I'm currently a PhD. student at IFIBA-CONICET and a graduate teaching assistant of physics at the Physics Department at FCEN, UBA.
+I'm a physicist interested in Cosmological Data and Statistical Analysis. I'm currently a PhD. student at IFIBA (CONICET) and a graduate teaching assistant of physics at the Physics Department at FCEN, UBA.
 
 My work
 ======
