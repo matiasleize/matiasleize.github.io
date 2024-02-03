@@ -15,9 +15,9 @@ My work
 
 During my M.S. and the first year of my PhD. I studied a family of alternative cosmological theories to the standard cosmological model $\Lambda \rm{CDM}$: the $f(R)$ theories. In particular, I studied the Hu-Sawicki and the exponential model in the scope of Active Galactic Nuclei (AGN) fluxes, which are high-redshift data available to test cosmological models. You can find this work [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.103526).
 
-![Contours_HS](/images/paper_1/contornos_HS.png)
-![Different_Models](/images/paper_1/contornos_modelos.png)
-![Intervals_HSCC+SN+BAO](/images/paper_1/intervals_HS.png)
+<img src="/images/paper_1/contornos_HS.png" alt="Contours_HS" width="50"/>
+<img src="/images/paper_1/contornos_modelos.png" alt="Different_Models" width="100"/>
+<img src="/images/paper_1/intervals_HS.png" alt="Intervals_HS_CC+SN+BAO" width="200"/>
 
 Besides, I've also been studying and testing other kinds of modified theories. For instance, I worked on the development of a modification of the [CLASS code](https://lesgourg.github.io/class_public/class.html), in which a Vector Field Dark Matter model was implemented (this work and repo will be available soon).
 
