@@ -13,7 +13,7 @@ I'm a physicist interested in Cosmological Data and Statistical Analysis. I'm cu
 My work
 ======
 
-During my M.S. and the first year of my PhD. I studied a family of alternative cosmological theories to the standard cosmological model $\Lambda \rm{CDM}$: the $f(R)$ theories. In particular, I studied the Hu-Sawicki and the exponential model in the scope of Active Galactic Nuclei (AGN) fluxes, which are high-redshift data available to test cosmological models. You can find this work [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.103526).
+During my M.S. and the first year of my PhD. I studied a family of alternative cosmological theories to the standard cosmological model $\Lambda \rm{CDM}$: the $f(R)$ theories. In particular, I studied the Hu-Sawicki and the Exponential model in the scope of Active Galactic Nuclei (AGN) fluxes, which are high-redshift data available to test cosmological models. You can find this work [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.103526).
 
 <img src="/images/paper_1/contornos_HS.png" alt="Contours_HS" width="350"/>
 <img src="/images/paper_1/contornos_modelos.png" alt="Different_Models" width="350"/>
