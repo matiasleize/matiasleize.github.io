@@ -64,4 +64,4 @@ Languages
 ======
 * Spanish (Native)
 * English (Fluent)
-* Italian (Intermediate)
+* Italian (Upper Intermediate)
