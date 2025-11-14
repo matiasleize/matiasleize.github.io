@@ -1,5 +1,6 @@
 ---
-title: "Tensions in cosmology: a discussion of statistical tools to determine inconsistencies"
+title: "The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics
+        and fundamental physics"
 collection: publications
 permalink: /publication/2025-06-20-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
