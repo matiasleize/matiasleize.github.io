@@ -1,9 +1,9 @@
 ---
 title: "Cosmological perturbations with ultralight vector dark matter fields: Numerical implementation in class"
 collection: publications
-permalink: /publication/2024-07-02-2
+permalink: /publication/2025-05-13-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-07-02
+date: 2025-05-13
 venue: 'Physical Review D'
 paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.103520'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
