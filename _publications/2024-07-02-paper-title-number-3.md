@@ -1,7 +1,7 @@
 ---
 title: "Tensions in cosmology: a discussion of statistical tools to determine inconsistencies"
 collection: publications
-permalink: /publication/2025-09-1
+permalink: /publication/2025-09-02-2
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-09-02
 venue: 'Physics of the Dark Universe'
