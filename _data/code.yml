@@ -1,0 +1,17 @@
+# Software shown on the /code/ page, in display order
+- name: "multimeter"
+  description: "Python package to quantify and interpret statistical tensions among multiple cosmological datasets. It provides a geometric framework to assess the consistency of N datasets in a shared D-dimensional parameter space, going beyond standard pairwise tension measures."
+  language: "Python"
+  install: "pip install multimeter-tension"
+  github: "https://github.com/matiasleize/multimeter"
+  pypi: "https://pypi.org/project/multimeter-tension/"
+  paper_title: "Generalized tension metrics for multiple cosmological datasets"
+  paper_url: "https://arxiv.org/abs/2512.06086"
+
+- name: "fR-MCMC"
+  description: "Cosmological analyses of f(R) modified gravity theories using Markov Chain Monte Carlo. Configurable through YAML files, it runs the MCMC sampling and the subsequent statistical analysis of the chains."
+  language: "Python"
+  install: "git clone https://github.com/matiasleize/fR-MCMC"
+  github: "https://github.com/matiasleize/fR-MCMC"
+  paper_title: "Testing f(R) gravity models with quasar X-ray and UV fluxes"
+  paper_url: "https://doi.org/10.1103/PhysRevD.105.103526"

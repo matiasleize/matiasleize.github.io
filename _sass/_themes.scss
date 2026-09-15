@@ -1,0 +1,206 @@
+/* ==========================================================================
+   COLOR THEMES
+   Dark is the default; [data-theme="light"] on <html> switches to light.
+   The attribute is set in _includes/head.html and toggled in _includes/scripts.html
+   ========================================================================== */
+
+:root,
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111418;
+  --bg-elevated: #1a1e24;
+  --surface: #1d2229;
+  --border: #2b313a;
+  --text: #c9d1d9;
+  --text-muted: #9aa4ae;
+  --heading: #eef2f6;
+  --strong: #ffffff;
+  --link: #6cc4e0;
+  --link-hover: #a3dcee;
+  --link-visited: #8fb8d8;
+  --masthead-link: #aab3bd;
+  --masthead-link-hover: #ffffff;
+  --code-bg: #1a1e24;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #ffffff;
+  --bg-elevated: #ffffff;
+  --surface: #f2f3f3;
+  --border: #e4e6e7;
+  --text: #494e52;
+  --text-muted: #767b7e;
+  --heading: #313539;
+  --strong: #000000;
+  --link: #2a7f9e;
+  --link-hover: #1d5a70;
+  --link-visited: #4f7f93;
+  --masthead-link: #6a7176;
+  --masthead-link-hover: #313539;
+  --code-bg: #fafafa;
+}
+
+body {
+  background-color: var(--bg);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading);
+}
+
+.masthead {
+  background-color: var(--bg);
+}
+
+/*
+   Theme switch
+   ========================================================================== */
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+
+  .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+
+.theme-toggle {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-left: 1rem;
+  padding: 0;
+  color: var(--masthead-link);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--masthead-link-hover);
+    background: var(--surface);
+  }
+}
+
+/* prefixed with .theme-toggle so these win over font-awesome's display rules */
+.theme-toggle .theme-toggle__icon--moon {
+  display: none;
+}
+
+:root[data-theme="light"] .theme-toggle {
+  .theme-toggle__icon--sun {
+    display: none;
+  }
+
+  .theme-toggle__icon--moon {
+    display: inline-block;
+  }
+}
+
+/* keep the avatar inside the narrower sidebar on tablet widths */
+.author__avatar img {
+  width: 100%;
+}
+
+/*
+   Figures and publications
+   ========================================================================== */
+
+.figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.5em 0;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+  }
+}
+
+.publication__authors {
+  margin: 0.25em 0;
+  font-size: $type-size-6;
+  color: var(--text-muted);
+
+  b {
+    color: var(--heading);
+  }
+}
+
+.publication__venue {
+  margin: 0.25em 0;
+}
+
+.publication__links {
+  margin: 0.5em 0 0;
+
+  .btn {
+    margin-right: 0.5em;
+    padding: 0.3em 0.8em;
+    font-size: $type-size-7;
+    text-decoration: none;
+    color: var(--text) !important;
+    background-color: var(--surface);
+    border: 1px solid var(--border) !important;
+
+    &:hover {
+      color: var(--bg) !important;
+      background-color: var(--link);
+    }
+  }
+}
+
+/*
+   Code page
+   ========================================================================== */
+
+.repo-card {
+  margin: 1.5em 0;
+  padding: 1em 1.25em;
+  background-color: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: $border-radius;
+
+  p {
+    margin: 0.5em 0;
+  }
+}
+
+.repo-card__title {
+  margin: 0 0 0.25em;
+  padding: 0;
+  border: 0;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.repo-card__language,
+.repo-card__paper {
+  font-size: $type-size-6;
+  color: var(--text-muted);
+}
+
+.repo-card__install {
+  margin: 0.75em 0;
+  padding: 0.5em 0.75em;
+  overflow-x: auto;
+  font-size: $type-size-6;
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: $border-radius;
+}

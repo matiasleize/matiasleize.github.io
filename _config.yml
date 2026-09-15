@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matías Leizerovich / matiasleize"
+title                    : "Matías Leizerovich"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Matías Leizerovich"
+description              : &description "PhD candidate in Physics at the University of Buenos Aires working on observational cosmology, dark energy and statistical methods for cosmological data."
 url                      : https://matiasleize.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matiasleize/matiasleize.github.io"
@@ -73,18 +73,18 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Matías"
+  name             : "Matías Leizerovich"
   avatar           : "profile.png"
-  bio              : "I'm a PhD. student interested in Cosmological data and statistical analysis"
+  bio              : "PhD candidate in Physics working on cosmology and statistical data analysis"
   location         : "Buenos Aires, Argentina"
-  employer         : "IFIBA (CONICET)"
+  employer         : "IFIBA (UBA–CONICET)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BCRl_AoAAAAJ&hl=es"
   email            :  "mleize@df.uba.ar"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Argentina/Buenos_Aires # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,0 +1,3 @@
+{% assign pub = include.pub %}
+{% if pub.authors %}<p class="publication__authors">{{ pub.authors }}</p>{% endif %}
+<p class="publication__venue"><i>{{ pub.venue }}</i>{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.status %} ({{ pub.status }}){% endif %}, {{ pub.date | date: "%Y" }}</p>

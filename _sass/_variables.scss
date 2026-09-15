@@ -47,18 +47,20 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+/* colors that change with the theme are CSS custom properties, see _themes.scss */
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$lighter-gray               : var(--surface);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : var(--bg);
+$background-color           : var(--bg);
+$code-background-color      : var(--code-bg);
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : var(--text);
+$border-color               : var(--border);
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -90,11 +92,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : var(--link);
+$link-color-hover           : var(--link-hover);
+$link-color-visited         : var(--link-visited);
+$masthead-link-color        : var(--masthead-link);
+$masthead-link-color-hover  : var(--masthead-link-hover);
 
 
 /*

@@ -3,17 +3,19 @@ title: "Graduate teaching assistant"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/grad-teaching-assistant
-venue: "Buenos Aires University, Physics Department"
-date: 2024-04-01 #from 2021-04-01 
+venue: "University of Buenos Aires, Physics Department"
+date: 2026-03-01
+period: "2022 – present"
 location: "Buenos Aires, Argentina"
 ---
-# Tasks:
+
+## Tasks
 * Prepare classes, presentations and manuscripts as course materials.
 * Adapt complex contents for B.S. and M.S. students.
-* Work up to 30 hours a week.
 
-Elecromagnetism and Optics
-======
-*   Buenos Aires University
-*   Supervisor: Professor Cesar Bertucci
+## Statistical Methods in Experimental Physics (Mar – Jul 2025)
+* University of Buenos Aires
 
+## Electromagnetism and Optics
+* University of Buenos Aires
+* Supervisor: Professor Cesar Bertucci

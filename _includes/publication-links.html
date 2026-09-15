@@ -1,0 +1,7 @@
+{% assign pub = include.pub %}
+{% if pub.paperurl or pub.arxiv %}
+  <p class="publication__links">
+    {% if pub.paperurl %}<a class="btn" href="{{ pub.paperurl }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Journal</a>{% endif %}
+    {% if pub.arxiv %}<a class="btn" href="https://arxiv.org/abs/{{ pub.arxiv }}"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv:{{ pub.arxiv }}</a>{% endif %}
+  </p>
+{% endif %}

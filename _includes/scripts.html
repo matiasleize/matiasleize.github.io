@@ -1,4 +1,28 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  // dark/light theme switch; the initial theme is set in head.html
+  (function () {
+    var root = document.documentElement;
+    var toggle = document.getElementById('theme-toggle');
+    if (!toggle) return;
+
+    function updateLabel() {
+      var next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      toggle.setAttribute('aria-label', 'Switch to ' + next + ' mode');
+      toggle.setAttribute('title', 'Switch to ' + next + ' mode');
+    }
+
+    toggle.addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      updateLabel();
+    });
+
+    updateLabel();
+  })();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

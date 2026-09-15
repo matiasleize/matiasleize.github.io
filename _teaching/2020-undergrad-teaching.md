@@ -3,26 +3,24 @@ title: "Undergraduate teaching assistant"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/undergrad-teaching-assistant
-venue: "Buenos Aires University, Physics Department"
-date: 2021-03-31 #from 2020-04-01 
+venue: "University of Buenos Aires, Physics Department"
+date: 2021-12-01
+period: "2020 – 2021"
 location: "Buenos Aires, Argentina"
 ---
-# Tasks:
+
+## Tasks
 * Prepare classes, presentations and manuscripts as course materials.
 * Adapt complex contents for B.S. and M.S. students.
-* Work up to 30 hours a week.
 
-Introduction to Cosmology
-======
-*   Buenos Aires University
-*   Supervisor: Professor Diana Lopez Nacir
+## Cosmology (Aug – Dec 2021)
+* University of Buenos Aires
+* Supervisor: Professor Diana Lopez Nacir
 
-Mechanics and Thermodinamics
-======
-*   Buenos Aires University
-*   Supervisor: Professor Ana Amador
+## Mechanics and Thermodynamics
+* University of Buenos Aires
+* Supervisor: Professor Ana Amador
 
-Electromagetism
-======
-*   Buenos Aires University
-*   Supervisor: Professor Luis Morelli
+## Electromagnetism
+* University of Buenos Aires
+* Supervisor: Professor Luis Morelli
