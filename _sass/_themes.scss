@@ -116,17 +116,39 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 .figure-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: center;
-  gap: 1rem;
-  margin: 1.5em 0;
+  gap: 2rem;
+  margin: 2em 0 2.5em;
 
   img {
-    max-width: 100%;
+    display: block;
+    width: 100%;
     height: auto;
+    padding: 0.5rem;
+    background: #fff;
     border-radius: $border-radius;
+  }
+
+  /* figures that take a whole row */
+  .figure-row__wide {
+    grid-column: 1 / -1;
+  }
+
+  .figure-row__center {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: 60%;
+  }
+
+  @media (max-width: $small) {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+
+    .figure-row__center {
+      width: 100%;
+    }
   }
 }
 

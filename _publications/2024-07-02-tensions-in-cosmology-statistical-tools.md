@@ -7,6 +7,7 @@ venue: 'Physics Letters B'
 volume: '855, 138844'
 authors: '<b>Leizerovich, M.</b>; Landau, S. J.; Scóccola, C. G.'
 paperurl: 'https://doi.org/10.1016/j.physletb.2024.138844'
+arxiv: '2312.08542'
 ---
 
 Application of statistical tools to quantify cosmological tensions, highlighting the impact of marginalization and focusing on the Hubble tension.
